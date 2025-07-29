@@ -1,0 +1,5 @@
+.App { text-align: center; padding: 20px; }
+.product-list { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+.product-card { border: 1px solid #ccc; padding: 10px; width: 200px; }
+.product-card img { width: 100%; }
+.admin-panel input { margin: 5px; padding: 5px; }
